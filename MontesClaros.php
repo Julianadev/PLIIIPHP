@@ -243,7 +243,7 @@
   <div class="row row-cols-1 row-cols-md-3 g-lg-3 p-3 m-5">
     <div class="card" style="width: 18rem;">
       <img
-        src="https://scontent.fbhz2-1.fna.fbcdn.net/v/t1.6435-9/175667132_3805367396227545_8755840246214827514_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=3AhYj0TUHQoAX-ZjwiE&_nc_ht=scontent.fbhz2-1.fna&oh=00_AfCHnBPX0v_HSfFZci4QnztmdsqTvnIK9NaFXi2Ieb_9Cw&oe=64A63CC4"
+        src="https://upload.wikimedia.org/wikipedia/commons/4/45/Museu_Regional_do_Norte_de_Minas.jpg"
         class="card-img-top img-fluid" alt="...">
       <div class="card-body">
         <h4 class="card-title text-center">Museu Regional do Norte de
